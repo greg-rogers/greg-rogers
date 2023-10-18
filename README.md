@@ -2,7 +2,7 @@ Hello, I’m Greg Rogers, im a student studying computer science at A-Level and 
 I’m interested in many aspects of computing such as machine learning but I have a particular affinity for topics focused on the combination of maths and computing.
 - I’m currently learning C# and python as well as the OCR computer science A-Level syllabus.
 - I’m looking to learn other languages like java as well as undertake many new projects such as creating a personal website.
-- I am relativley new to programming having only found my love for it over the past year so feel free to message me with any advice or tips.
+
 
 <!---
 greg-rogers/greg-rogers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
